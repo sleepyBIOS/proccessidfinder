@@ -28,6 +28,7 @@ int main() {
 		printf("\nAre you sure that you properly inputted the ProcessID?");
 	}
 
+	getchar();
 	printf("\nPress anything to exit...");
 	getchar();
 	return 0;
